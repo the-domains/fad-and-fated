@@ -1,0 +1,28 @@
+name: 'Fad & Fated'
+favicon: null
+layout_spectrum: 0.4317009844817221
+typography_spectrum: 0.32736843382008374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.45672161714173853
+  lightness: 0.5860691484995186
+  saturation: 0.7797002336010337
+  rhythmicContrast: 0.036906853783875704
+purpose: []
